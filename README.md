@@ -75,7 +75,10 @@ CREATE DATABASE IF NOT EXISTS passport_demo;
 ## config
 
 ### middleware
+Located in the middleware folder is the file "isAuthenticated.js". This file contains the code to authenticate members when they login. If req.user is true (aka the user has logged in) then they will have access to page data and be redirected to the main page, otherwise they will be redirected to the login/sign up page. Data on the website is restricted until the user authenticates.
+<br>
 
+###
 
 
 <br>
