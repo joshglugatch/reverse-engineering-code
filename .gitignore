@@ -1,0 +1,4 @@
+# tells git to ignore tracking these files
+node_modules/
+.DS_Store
+package-lock.json
