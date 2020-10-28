@@ -2,7 +2,13 @@
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://www.mit.edu/~amini/LICENSE.md)
 <br>
 
- Reverse engineering code that allows users to log in and out of an app and creates a unique session. It uses a MySQL database to store data and a password encrypter to keep user data safe. To learn more check out the table of contents below.
+ Reverse engineering code that allows users to log in and out of an app and creates a unique session. It uses a MySQL database to store data and a password encrypter to keep user data safe. 
+ <br>
+ 
+ ![demogif](demo.gif)
+ 
+ <br>
+ To learn more check out the table of contents below.
 
 <br>
 <br> 
