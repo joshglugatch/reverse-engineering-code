@@ -146,7 +146,7 @@ CREATE DATABASE IF NOT EXISTS passport_demo;
 ## public
 <br>
 
-### js (login,members,signup)
+### javascript (login,members,signup)
 * Interacts with the HTML to grab user created values and feed them to an API for our routes to grab send wherever needed. Validation is done here on user input.
 
 <br>
@@ -166,11 +166,8 @@ CREATE DATABASE IF NOT EXISTS passport_demo;
 <hr>
 
 
-## Deployed Link:
-https://eat-da-burger-yum.herokuapp.com/
-
 ## Repository Link:
-https://github.com/joshglugatch/Eat-Da-Burger
+https://github.com/joshglugatch/reverse-engineering-code
 
 
 <br>
